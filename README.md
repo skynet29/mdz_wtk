@@ -1,1 +1,1 @@
-# mdz_wtk
+MDZ WTK est une librairie de classes C++ pour écrire des applications graphiques pour Windows. A la différence des MFC de Microsoft, MDZ WTK est très facile à utiliser puisque son API ressemble à celle de Java. Son utilisation ne requiert aucune connaissance préalable de l'API Windows. 
